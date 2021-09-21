@@ -55,7 +55,7 @@ forecastAPI = {ZIP1:getForecastAPI(ZIP1)}, {ZIP2:getForecastAPI(ZIP2)}, {ZIP3:ge
 assert (forecast==forecastAPI)
 time.sleep(5)
 #driver.close()
-
+ 
 
 
 
