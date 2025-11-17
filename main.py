@@ -16,7 +16,7 @@ import requests
 
 # Default ZIP codes used when no explicit input is provided.
 DEFAULT_ZIP_CODES = {
-    "Fremont, CA": "94538",
+    "New York, NY": "10036",
     "San Francisco, CA": "94103",
     "Los Angeles, CA": "90012",
 }

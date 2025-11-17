@@ -1,6 +1,6 @@
 # Weather Forecast CLI
 
-This project is a small command-line helper that fetches a three-day forecast for one or more U.S. ZIP codes using the AccuWeather API. It no longer embeds any credentials; provide your own API key at runtime.
+This project is a small command-line helper that fetches a three-day forecast for one or more U.S. ZIP codes using the AccuWeather API. You provide your own API key at runtime.
 
 ## Prerequisites
 - Python 3.9+
